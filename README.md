@@ -1,21 +1,9 @@
-- Languages i know and can use: Python, javascript, AHK (AutoHotkey script), batch, vbs and some other ones.
-- Im best at Python and Javascript.
-- Frameworks that i can use: Django, NODE.JS
+- Languages i know and can use: Python, JS, AHK (AutoHotkey script), batch, VBS, C++ (fundamentals), 
+- Frameworks i can use: Django, NODE.JS
 
-- 👋 Hi, I’m @programmingkitten, i study coding since i was 12 (I am 17 right now). I started with batch and vbs for some random 'viruses' like programs. Then i moved to AutoHotkey script to
-create scripts for games. Then i started studying a lot of languages to find the one i love the most. I tried C#, C++, php and many other and found
-that i like Python the most. I realised coding is my real passion and i love doing it so i started studying at softuni and after 2 years I managed to graduate with an 
-avarage score of 5.93.
+- 👋 I have been studying coding since i was 13. I started with batch, vbs and AHK to code viruses and scripts for games. Then i started studying a lot of languages to find the one i love the most. After going thru a lot of languages i found that Python suits me the most. I graduated Software University with avarage score of 5.93.
 
-- 👀 I’m interested in web devolpement. I love it. It's very fun and you see the progress instantly. Which motivates you A LOT. Even the slightest change makes me
-feel awesome and that i can do even more. 
-
+- 👀 I’m interested in web devolpement. I love it. Mainly because Web development requires a lot of team work and I adore working in a team. Always being in contact with people i what i crave.
 - 🌱 I’m currently learning NODE.JS at softuni.bg.  
-
-- 💞️ Im looking to work for a team that uses Django or NODE.JS. I am very good at team work and i love to communicate.
-- 📫 How to reach me ...
-
-<!---
-programmingkitten/programmingkitten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💞️ Im looking to work for a team which can help me imrpove. Payament is not an motivator for me. I would choose working for free but working with very experienced people that can help me become the best.
+- 📫 How to reach me -> ivan.yordanov.gt@gmail.com
